@@ -1,0 +1,2 @@
+# GIT_STRATEGY
+GIT_STRATEGY Practivce
